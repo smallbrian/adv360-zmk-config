@@ -37,5 +37,7 @@ The keymap contains 8 layers:
   - previous and next tab on the outer pinky keys
   - also includes same clipboard controls as mouse layer
 
+  testing
+
 
 <img src="https://github.com/cosmicbuffalo/adv360-zmk-config/blob/main/keymap.jpg?raw=true">
